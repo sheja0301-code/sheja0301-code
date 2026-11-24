@@ -1,12 +1,12 @@
-# Hi, I'm Shejashri L J! 👋
+# Hi, I'm Shejashri L J! 
 
-🎓 First-Year B.Tech Artificial Intelligence and Machine Learning Student at Saveetha Engineering College.
+ First-Year B.Tech Artificial Intelligence and Machine Learning Student at Saveetha Engineering College.
 
 ## About Me
-- 🌱 I am currently learning Python, Artificial Intelligence and Machine Learning.
-- 💻 Interested in programming, technology and web development.
-- 🚀 Passionate about innovation and solving real-world problems.
-- 🎯 My goal is to become an AI/ML Engineer and build innovative technologies.
+- I am currently learning Python, Artificial Intelligence and Machine Learning.
+- Interested in programming, technology and web development.
+- Passionate about innovation and solving real-world problems.
+- My goal is to become an AI/ML Engineer and build innovative technologies.
 
 ## Technical Skills
 
@@ -34,4 +34,4 @@
 
 ---
 
-⭐ *Learning every day, building step by step, and growing through technology!*
+ *Learning every day, building step by step, and growing through technology!*
